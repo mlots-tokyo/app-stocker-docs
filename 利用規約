@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>利用規約 - App Stocker</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; background-color: #f9f9f9; }
+        .container { background: #fff; padding: 30px; border-radius: 12px; shadow: 0 2px 10px rgba(0,0,0,0.05); border: 1px solid #eee; }
+        h1 { font-size: 24px; border-bottom: 2px solid #007AFF; padding-bottom: 10px; color: #1c1c1e; }
+        h2 { font-size: 18px; margin-top: 30px; color: #1c1c1e; }
+        p, li { font-size: 15px; color: #444; }
+        .footer { margin-top: 50px; text-align: center; font-size: 12px; color: #8e8e93; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>利用規約</h1>
+        <p>この利用規約（以下、「本規約」といいます。）は、Chikaarashi Rikito（Mlots）（以下、「当方」といいます。）が提供するスマートフォン用アプリケーション「App Stocker」（以下、「本アプリ」といいます。）の利用条件を定めるものです。</p>
+
+        <h2>第1条（適用）</h2>
+        <p>本規約は、ユーザーと当方との間の本アプリの利用に関わる一切の関係に適用されるものとします。</p>
+
+        <h2>第2条（サービスの提供目的）</h2>
+        <p>本アプリは、ユーザーが関心のあるアプリケーション情報を管理・保存し、価格の変動等を確認することを目的としたツールです。</p>
+
+        <h2>第3条（免責事項）</h2>
+        <ul>
+            <li>当方は、本アプリが提供する情報の正確性、最新性、妥当性について、いかなる保証も行いません。</li>
+            <li>本アプリに表示される価格情報は外部APIに基づいており、実際のApp Store上の販売価格と異なる場合があります。購入前に必ずApp Storeの公式ページにおいて最新の正確な情報を確認するものとします。</li>
+            <li>本アプリの利用により生じた損害について、当方は一切の責任を負いません。</li>
+        </ul>
+
+        <h2>第4条（禁止事項）</h2>
+        <p>本アプリのリバースエンジニアリング、逆コンパイル、またはサーバーへの過度な負荷をかける行為を禁止します。</p>
+
+        <h2>第5条（お問い合わせ窓口）</h2>
+        <p>開発者：Chikaarashi Rikito（Mlots）<br>メールアドレス：mlots.tokyo@gmail.com</p>
+
+        <div class="footer">
+            © 2026 Mlots
+        </div>
+    </div>
+</body>
+</html>
